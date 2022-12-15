@@ -1,9 +1,5 @@
 import { Link } from 'react-router-dom';
 
-// Please note:
-// <Link to="/products/p1" ... could also be written as
-// <Link to="p1" ... with React Router v6
-
 const Products = () => {
   return (
     <section>
